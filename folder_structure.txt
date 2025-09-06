@@ -1,0 +1,201 @@
+simanjur-smkma/
+├── cetak_saw.php
+├── cetak-hasil.php
+├── check_subjects_data.php
+├── check_tables.php
+├── composer.json
+├── composer.lock
+├── index.php
+├── PROFILE_UPDATE_TEST_SUMMARY.md
+├── query
+├── register.php
+├── reset_password.php
+├── simanjur-smkma-output.md
+├── simanjur-smkma-output.txt
+├── test_password.php
+├── test.php
+├── TODO_BIODATA_IMPROVEMENT.md
+├── TODO_CETAK_IMPROVEMENT.md
+├── TODO.md
+├── api/
+│   ├── scores.php
+│   └── student_minat_api.php
+├── assets/
+│   ├── index.html
+│   ├── LICENSE
+│   ├── README.md
+│   ├── css/
+│   │   ├── bootstrap.css
+│   │   └── simple-sidebar.css
+│   ├── dashboardkit/
+│   │   ├── .gitignore
+│   │   ├── .prettierrc
+│   │   ├── .yarnrc.yml
+│   │   ├── eslint.config.mjs
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── jsconfig.json
+│   │   ├── jsconfig.node.json
+│   │   ├── LICENSE
+│   │   ├── package-lock.json
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── vite.config.mjs
+│   │   ├── yarn.lock
+│   │   ├── public/
+│   │   │   └── robots.txt
+│   │   └── src/
+│   │       ├── App.jsx
+│   │       ├── index.jsx
+│   │       ├── index.scss
+│   │       ├── menu-items-collapse.js
+│   │       ├── menu-items.js
+│   │       ├── reportWebVitals.js
+│   │       ├── assets/
+│   │       ├── components/
+│   │       ├── config/
+│   │       ├── contexts/
+│   │       ├── data/
+│   │       ├── hooks/
+│   │       ├── layouts/
+│   │       ├── routes/
+│   │       ├── store/
+│   │       ├── utils/
+│   │       └── views/
+│   ├── fonts/
+│   │   ├── .DS_Store
+│   │   ├── glyphicons-halflings-regular.eot
+│   │   ├── glyphicons-halflings-regular.svg
+│   │   ├── glyphicons-halflings-regular.ttf
+│   │   └── glyphicons-halflings-regular.woff
+│   ├── images/
+│   │   ├── admin.png
+│   │   ├── bk.png
+│   │   ├── decision.png
+│   │   ├── kepsek.png
+│   │   ├── logoadmin.png
+│   │   ├── schools.png
+│   │   ├── Student.png
+│   │   └── walikelas.png
+│   ├── js/
+│   │   ├── .DS_Store
+│   │   ├── bootstrap.js
+│   │   ├── bootstrap.min.js
+│   │   ├── jquery.js
+│   │   ├── jquery.min.js
+│   │   ├── main.js
+│   │   └── popper.js
+│   └── scss/
+│       ├── .DS_Store
+│       ├── style.scss
+│       └── bootstrap/
+│           ├── .DS_Store
+│           └── bootstrap-grid.scss
+├── auth/
+│   ├── login-admin.php
+│   ├── login-bk.php
+│   ├── login-kepsek.php
+│   ├── login-siswa.php
+│   ├── login-wali.php
+│   ├── register-admin.php
+│   ├── register-bk.php
+│   ├── register-kepsek.php
+│   ├── register-siswa.php
+│   └── register-wali.php
+├── config/
+│   └── koneksi.php
+├── dashboard/
+│   ├── admin/
+│   │   ├── .htaccess
+│   │   ├── index.php
+│   │   ├── logout.php
+│   │   ├── modules/
+│   │   └── views/
+│   ├── auth/
+│   │   └── login-siswa.php
+│   ├── bk/
+│   │   ├── index.php
+│   │   ├── logout.php
+│   │   └── profil.php
+│   ├── jurusan/
+│   │   ├── data.php
+│   │   ├── index.php
+│   │   ├── manajemen-pengguna.php
+│   │   ├── tambah-jurusan.php
+│   │   └── assets/
+│   ├── kepsek/
+│   │   ├── dashboard.php
+│   │   ├── index.php
+│   │   ├── laporan.php
+│   │   ├── logout.php
+│   │   ├── profil.php
+│   │   └── ranking.php
+│   ├── siswa/
+│   │   ├── biodata.php
+│   │   ├── cetak.php
+│   │   ├── check_users.php
+│   │   ├── hasil.php
+│   │   ├── index.php
+│   │   ├── input_bakat.php
+│   │   ├── input_minat.php
+│   │   ├── input_nilai.php
+│   │   ├── profil.php
+│   │   ├── set_session.php
+│   │   ├── update_profil.php
+│   │   ├── js/
+│   │   └── profil/
+│   └── walikelas/
+│       ├── index.php
+│       ├── logout.php
+│       ├── profil.php
+│       └── ranking.php
+├── hasil-saw/
+│   ├── edit-hasil.php
+│   ├── hapus-hasil.php
+│   ├── hasil-saw.php
+│   └── tambah-hasil.php
+├── includes/
+│   ├── db.php
+│   ├── footer.php
+│   ├── functions.php
+│   ├── header.php
+│   ├── profile_functions.php
+│   └── student-list.php
+├── layouts/
+│   ├── footer.php
+│   ├── header.php
+│   └── sidebar-admin.php
+├── lib/
+│   ├── data.php
+│   └── saw.php
+├── login/
+│   ├── login-admin.php
+│   ├── login-bk.php
+│   ├── login-kepsek.php
+│   ├── login-siswa.php
+│   └── login-wali.php
+├── logout/
+│   ├── logout-admin.php
+│   ├── logout-kepsek.php
+│   └── logout-siswa.php
+├── partials/
+│   └── dashboardkit-sidebar.php
+├── proses/
+│   ├── cetak_pdf.php
+│   ├── hitung_saw.php
+│   ├── login.php
+│   ├── logout.php
+│   └── register.php
+└── setup/
+    ├── fix_students_table.php
+    ├── setup_database.php
+    ├── setup_integrated_criteria.php
+    ├── setup_integrated_minat_system.php
+    ├── setup_scores_table.php
+    ├── setup_student_biodata_table.php
+    ├── setup_student_interests_table.php
+    ├── setup_student_totals_table.php
+    ├── setup_students_table.php
+    ├── setup_users.php
+    ├── update_student_interests_table.php
+    └── update_student_talents_table.php
